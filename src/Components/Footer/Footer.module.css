@@ -1,0 +1,23 @@
+.container {
+    background-color: black;
+    width: 100%;
+    color: white;
+    height: 100vh;
+    font-size: 11px;
+    padding: 10px 0px;
+}
+
+.text txt {
+    margin: 10px 2px;
+}
+
+.footer {
+    display: flex;
+    justify-content: center;
+    align-items: last baseline;
+    margin-top: 5pc;
+}
+.footer span{
+    margin: 8px 10px;
+    font-size: 11px;
+}
